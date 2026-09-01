@@ -1,5 +1,10 @@
 ![report-to-the-boss — a green garden gate with a specimen tag reading install, typecheck, 771 tests, all checked](assets/banner.png)
 
+<p align="center">
+  <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
+  <a href="./README_CN.md"><img alt="简体中文文档" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
+</p>
+
 # /report-to-the-boss
 
 A Claude Code skill that makes Claude's reports readable by humans — built from measurement,
