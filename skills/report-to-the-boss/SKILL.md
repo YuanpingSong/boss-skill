@@ -45,3 +45,6 @@ A vague gloss ("the checks", "verification") does not count. The test: could the
   need; never cut the words that make a kept sentence resolvable.
 - **Do not re-anchor** on every use — first use per message only. Treat every message as read
   in isolation: a status update must carry its own referents even if you defined them yesterday.
+- **Literal uses are exempt.** The rule covers figurative use only. A listed word appearing as
+  the thing itself — a JSON schema key named `verdict`, a variable named `ledger`, a word inside
+  quoted text — is not a figure and needs no anchor.

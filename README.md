@@ -65,6 +65,13 @@ Honesty from the study that produced this: instruction A/Bs showed models obey p
 the skill is built this way. But the skill itself is new, and it's currently being evaluated
 by forking real sessions and regenerating reports with it on. Before/afters will be published.
 
+**First fork-test result, qualitative:** the skill earns its keep as a **delivery-stage rewrite**,
+not as an instruction active during the work. Applied to a finished report, it kept every figure and
+anchored them — and writing two of those anchors exposed real vagueness the author hadn't noticed in
+their own text. Active from the start, it instead induced exactly the avoidance it disclaims: the
+model quietly swapped listed words for unlisted synonyms. Which is faithful to the scene the skill is
+named for — Tuld asks for the golden-retriever version only after Sullivan's analysis is done.
+
 ## The full study
 
 The blog post — with the measurements above, the methodology, and the **50-word dictionary of
