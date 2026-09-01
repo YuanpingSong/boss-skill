@@ -58,19 +58,17 @@ cp -r boss-skill/skills/report-to-the-boss ~/.claude/skills/
 Either way, invoke it with `/report-to-the-boss` in any session — or make it standing policy
 by referencing it from your `CLAUDE.md`.
 
-## Status: under evaluation
+## Status: first fork test complete — use as a rewrite pass
 
-Honesty from the study that produced this: instruction A/Bs showed models obey precise,
-*named* targets (word lists, distance rules) and ignore abstract pleas — which is exactly why
-the skill is built this way. But the skill itself is new, and it's currently being evaluated
-by forking real sessions and regenerating reports with it on. Before/afters will be published.
-
-**First fork-test result, qualitative:** the skill earns its keep as a **delivery-stage rewrite**,
-not as an instruction active during the work. Applied to a finished report, it kept every figure and
-anchored them — and writing two of those anchors exposed real vagueness the author hadn't noticed in
-their own text. Active from the start, it instead induced exactly the avoidance it disclaims: the
-model quietly swapped listed words for unlisted synonyms. Which is faithful to the scene the skill is
-named for — Tuld asks for the golden-retriever version only after Sullivan's analysis is done.
+The design came from instruction A/Bs showing models obey precise, *named* targets (word lists,
+distance rules) and ignore abstract pleas. The first fork test — a real session, its final report
+regenerated with the skill on, off, and applied afterward to the finished report — settled how to
+use it: **as a delivery-stage rewrite, not an instruction active during the work.** Applied to a
+finished report, it kept every figure and anchored them — and writing two of those anchors exposed
+real vagueness the author hadn't noticed in their own text. Active from the start, it instead
+induced exactly the avoidance it disclaims: the model quietly swapped listed words for unlisted
+synonyms. Which is faithful to the scene the skill is named for — Tuld asks for the golden-retriever
+version only after Sullivan's analysis is done. More fork before/afters to come.
 
 ## The full study
 
