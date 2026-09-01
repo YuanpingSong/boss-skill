@@ -1,4 +1,4 @@
-![report-to-the-boss — a dim boardroom at night; a young analyst presents to a golden retriever seated at the head of the table](assets/banner.jpg)
+![report-to-the-boss — a dim boardroom at night; a young analyst explains plainly to the boss at the head of the table](assets/banner.jpg)
 
 <p align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
