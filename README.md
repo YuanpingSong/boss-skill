@@ -1,3 +1,5 @@
+![report-to-the-boss — a green garden gate with a specimen tag reading install, typecheck, 771 tests, all checked](assets/banner.png)
+
 # /report-to-the-boss
 
 A Claude Code skill that makes Claude's reports readable by humans — built from measurement,
