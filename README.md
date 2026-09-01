@@ -68,7 +68,9 @@ by forking real sessions and regenerating reports with it on. Before/afters will
 ## The full study
 
 The blog post — with the measurements above, the methodology, and the **50-word dictionary of
-Claudish** this skill's trigger list comes from — is in preparation. **Link will land here.**
+Claudish** this skill's trigger list comes from:
+
+**[The Gate Is Green](https://songyp.com/blog/the-gate-is-green)** · [中文版](https://songyp.com/zh/blog/the-gate-is-green)
 
 ## License
 
