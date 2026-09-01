@@ -1,4 +1,4 @@
-![report-to-the-boss — a green garden gate with a specimen tag reading install, typecheck, 771 tests, all checked](assets/banner.png)
+![report-to-the-boss —— 深夜会议室里，年轻分析师向坐在主位的金毛犬汇报](assets/banner.jpg)
 
 <p align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
