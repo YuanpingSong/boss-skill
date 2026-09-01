@@ -4,14 +4,14 @@
   "owner": { "name": "Yuanping Song" },
   "metadata": {
     "description": "report-to-the-boss — a Claude Code skill for human-readable reports, built from a corpus study of Claudish",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
       "name": "report-to-the-boss",
       "source": "./",
       "description": "On first use of a metaphorical noun, name the concrete referent in the same message. 50 trigger words from a measured study of 1.25M words of Claude output.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": { "name": "Yuanping Song" }
     }
   ]

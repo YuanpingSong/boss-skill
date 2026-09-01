@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "report-to-the-boss",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Make Claude's reports readable: on first use of a metaphorical noun (gate, seam, ledger...), name the concrete referent in the same message. No banned words, no forced brevity — those fail measurably.",
   "author": { "name": "Yuanping Song" },
   "skills": ["./skills/report-to-the-boss"]
