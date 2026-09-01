@@ -1,4 +1,4 @@
-![report-to-the-boss —— 深夜会议室里，年轻分析师向主位上的老板把话说明白](assets/banner.jpg)
+![report-to-the-boss —— 深夜会议室，老板坐在主位正对镜头；标语：一个让 Claude 的汇报说人话的 Claude Code skill](assets/banner.jpg)
 
 <p align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>

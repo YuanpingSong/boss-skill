@@ -1,4 +1,4 @@
-![report-to-the-boss — a dim boardroom at night; a young analyst explains plainly to the boss at the head of the table](assets/banner.jpg)
+![report-to-the-boss — a night boardroom, the boss lit at the head of the table facing you; wordmark and tagline: a Claude Code skill that makes Claude's reports readable](assets/banner.jpg)
 
 <p align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
