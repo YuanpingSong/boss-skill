@@ -39,13 +39,22 @@ It never bans a word and never asks for brevity. It sets a stance and one mechan
 
 ## Install
 
-```bash
-git clone https://github.com/YuanpingSong/boss-skill.git
-cp -r boss-skill/report-to-the-boss ~/.claude/skills/
+As a Claude Code plugin (recommended):
+
+```
+/plugin marketplace add YuanpingSong/boss-skill
+/plugin install report-to-the-boss@boss-skill
 ```
 
-Claude Code picks it up automatically; invoke it with `/report-to-the-boss`, or make it
-standing policy by referencing it from your `CLAUDE.md`.
+Or manually, as a bare skill:
+
+```bash
+git clone https://github.com/YuanpingSong/boss-skill.git
+cp -r boss-skill/skills/report-to-the-boss ~/.claude/skills/
+```
+
+Either way, invoke it with `/report-to-the-boss` in any session — or make it standing policy
+by referencing it from your `CLAUDE.md`.
 
 ## Status: under evaluation
 
