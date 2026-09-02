@@ -7,8 +7,7 @@
 
 # /report-to-the-boss
 
-A Claude Code skill that makes Claude's reports readable by humans — built from measurement,
-not vibes.
+A Claude Code skill that makes Claude's reports readable by humans.
 
 > *"Maybe you could tell me what is going on. And please, speak as you might to a young child.
 > Or a golden retriever. It wasn't brains that brought me here; I promise you that."*
